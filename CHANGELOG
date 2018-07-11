@@ -1,7 +1,7 @@
 Release 5.3.4 (Not yet released)
 -------------------------------
 
- *
+ * Fixes an issue with the handling of the HTTP_TRANSFER_ENCODING header.
 
 
 Release 5.3.3
